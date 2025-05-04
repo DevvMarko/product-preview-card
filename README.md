@@ -46,12 +46,12 @@ Users should be able to:
 
 ### What I learned
 
-From project to project I'm much familiar with media queries, also I found what breakpoints are best for some device, thats very helpfull.
+I've become more familiar with media queries from project to project, and I've also learned what breakpoints work best for certain devices. That's very helpful.
 
 
 ### Useful resources
 
-- [Media Queries Breakpoints](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me with what min-width to change layout for other screen size.
+- [Media Queries Breakpoints](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me figure out what minimum layout width I should set depending on my screen size.
 
 ## Author
 - Frontend Mentor - [@DevDaru](https://www.frontendmentor.io/profile/DevvMarko)
